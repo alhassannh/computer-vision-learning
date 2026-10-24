@@ -8,8 +8,6 @@ I'm using this repository to document my learning in computer vision, machine le
 
 This project explores satellite image classification using the EuroSAT dataset, which contains images representing 10 land-cover classes. A pretrained ResNet18 model is used to learn to distinguish between these classes through transfer learning. The notebook covers dataset preparation, image preprocessing, model configuration, training, and evaluation. Model performance is assessed using test accuracy, a classification report, and a confusion matrix to examine how well the model classifies each land-cover type.
 
-- **Dataset:** EuroSAT
-- **Model:** ResNet18 (pretrained)
-- **Test Accuracy:** 90.67%
-
-More notebooks will be added as I work on new topics and projects.# computer-vision-learning
+- **Notebook:** [EuroSAT Image Classification with ResNet18](./notebooks/eurosat_resnet18_classification.ipynb)
+- 
+More notebooks will be added as I work on new topics and projects.
